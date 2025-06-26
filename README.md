@@ -1,2 +1,2 @@
-# Teaching
-This repository contains teaching materials related to courses at SSSA
+# Security Assistance in Fragile Contexts
+[Syllabus](SA_syllabus.pdf)
